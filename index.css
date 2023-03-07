@@ -1,0 +1,187 @@
+body {
+    background : radial-gradient(#3D3D3D 0.4px, #161616 1px) 0 0 / 21px 21px;
+
+ }
+
+ .fu{
+    background: linear-gradient(to right,  rgb(221, 212, 212) , #414040 );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-family: 'Cabin', sans-serif;
+    font-size: 3.15em;
+    padding: 0% 20% 2% 20%;
+ }
+
+
+.header{
+    text-align: center;
+    line-height: 2;
+    margin: 5% 10% 8% 10%;
+ }
+
+.btn1{
+    border-radius: 1%;
+    background-color: #1A1A1A;
+    color: #9A9A9A;
+    padding: 1% 2.5%;
+    border: solid rgb(45, 45, 45);
+    border-width: 0.01em;
+    transition: 0.5s;
+    margin: 1%;
+}
+
+.btn1:hover{
+    transform:scale(0.9,0.9);
+    -webkit-transform:scale(0.9,0.9);
+    -moz-transform:scale(0.9,0.9);
+}
+
+.img1{
+    margin: 1%;
+    width: 11%;
+}
+
+
+.wavin-hand{
+    width:1em ;
+    padding: 0% 0% 0.5em 0em;
+}
+
+.nav-item{
+    font-family: 'League Spartan', sans-serif;
+    margin: 2% 10% 2% 10%;
+}
+
+.navbar-brand{
+    font-family: 'League Spartan', sans-serif;
+}
+
+.eduimg{
+    width: 10%;
+    /* filter: invert(89%) sepia(100%) saturate(1466%) hue-rotate(357deg) brightness(104%) contrast(102%); */
+    filter: invert(63%) sepia(0%) saturate(1337%) hue-rotate(135deg) brightness(102%) contrast(86%);
+
+}
+/* filter: invert(63%) sepia(0%) saturate(1337%) hue-rotate(135deg) brightness(102%) contrast(86%); */
+
+.edu{
+    background-color: #1A1A1A;
+    height: 20.5em;
+    border: solid rgb(45, 45, 45);
+    border-width: 0.01em;
+}
+
+.ck{
+    margin: 2%;
+}
+
+.edit{
+    background: linear-gradient(to right,  white , #414040 );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-family: 'Cabin', sans-serif;
+}
+
+.skills{
+    text-align: center;
+    margin: 10%;
+
+}
+
+.card1{
+    background-color: #1A1A1A;
+    color: #9A9A9A; 
+    font-family: 'League Spartan', sans-serif;
+    text-align: left;
+    border: solid #1A1A1A;
+    height: 25em;
+}
+
+.card1 p{
+    color: #9A9A9A; 
+    font-family: 'League Spartan', sans-serif;
+    position: relative;
+    top: 5em;
+}
+
+.card1 h2{
+    background: linear-gradient(to right,  rgb(221, 212, 212) , #414040 );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    position: relative;
+    top: 13.75rem;
+    margin: 0%;
+}
+
+.chi{
+    margin: 0% 10% 0% 10%;
+}
+
+#skill{
+    padding: 0.5em 10em;
+}
+
+.icon{
+    width: 10%;
+    filter: invert(63%) sepia(0%) saturate(1337%) hue-rotate(135deg) brightness(102%) contrast(86%);
+    margin: 0%;
+    position: relative;
+    top: 3em;
+}
+
+.bc{
+    margin: 10%;
+    text-align: center;
+    border: none;
+}
+
+.pooka{
+    border-style: solid none none none;
+    border-color: grey;
+    border-width: 1.50px;
+    width: 70%;
+    margin: auto;
+}
+
+#end{
+    text-align: center;
+}
+
+#education{
+    margin: 0% 0% 5% 0%;
+}
+
+.hi{
+    margin: 10% 0% 0% 0%;
+}
+
+#footer{
+    margin: 2%;
+    text-align: center;
+}
+
+/* .madda{
+    margin: auto 25%;
+    padding: 5%;
+    width: 45%;
+} */
+
+.cont{
+    padding: 1% 2% 1% 2%;
+    margin: 0% 13%;
+}
+
+.ms{
+    margin-left: 70%;
+}
+
+.me{
+    margin: 0;
+}
+
+.navbar-brand{
+    font-size: 1em;
+}
