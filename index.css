@@ -9,7 +9,7 @@ body {
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     font-family: 'Cabin', sans-serif;
-    font-size: 315%;
+    font-size: 3.15em;
     padding: 0% 20% 2% 20%;
  }
 
@@ -184,4 +184,144 @@ body {
 
 .navbar-brand{
     font-size: 1em;
+}
+
+.hvs{
+    width: 8%;
+}
+
+.shanti{
+    width: 20%; 
+    padding: 2em;
+}
+
+.indrani{
+    width: 20%; 
+    padding: 2em;
+}
+
+@media (max-width: 479px) {
+    .chi{
+        margin: 0% 3% 0% 3%;
+    }
+
+    .skills{
+        margin: 3%;
+    }
+    
+    #skill{
+        padding: 2.5em;
+    }
+
+    .fu{
+        font-size: 2.25em;
+        padding: 0% 10% 2% 10%;
+    }
+
+    .btn1{
+        margin: 2%;
+    }
+    
+    .img1{
+        margin:5% ;
+        width: 25%;
+    }
+
+    .edu{
+        height: 15em;
+        padding: 2em;
+        
+    }
+    
+    #hvs{
+        width: 18%;
+        margin: 2%;
+    }
+
+    #shanti{
+        width: 51%;
+        margin: 2%;
+    }
+
+    #indrani{
+        width: 51%;
+        margin: 2%;
+    }
+
+    #iitkgp{
+        width: 23%;
+        margin: 2%;
+    }
+}
+
+
+@media (max-width:991px) {
+    .webde h2{
+        position: relative;
+        top: 13.5rem;   
+    }
+
+    .techie h2{
+        background: linear-gradient(to right,  rgb(221, 212, 212) , #414040 );
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+    }
+
+    .patience h2{
+        background: linear-gradient(to right,  rgb(221, 212, 212) , #414040 );
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+        position: relative;
+        top: 16rem;
+    }
+
+    .techie p{
+        position: relative;
+        top: 4.5em;
+    }
+
+    .webde p{
+        position: relative;
+        top: 4.55em;
+    }
+
+    #webdeimg{
+        width: 17%;
+        margin: 0%;
+    }
+
+    #techieimg{
+        width: 17%;
+        margin: 0%;
+    }
+
+    .skills{
+        margin: 5%;
+    }
+    
+    #skill{
+        padding: 2.5em;
+    }
+
+    #hvs{
+        width: 13%;
+        margin: 2%;
+    }
+
+    #shanti{
+        width: 43%;
+        margin: 2%;
+    }
+
+    #indrani{
+        width: 43%;
+        margin: 2%;
+    }
+
+    #iitkgp{
+        width: 18%;
+        margin: 2%;
+    }
 }
